@@ -1,0 +1,17 @@
+[
+    {
+        "system_config":
+            {
+                "token" : "NzAwMzM4MzE2MTg0Mzg3NjY2.Xphe4g.cvJkiPrn7nUhtA-yoVjWhnbiwz0",
+                "prefix" : "#"
+            }
+    },
+    {
+        "db_tools"  : 
+        [
+            {"url": "localhost"},
+            {"username" : "root"},
+            {"password" : "mysql"}
+        ]
+    }
+]
